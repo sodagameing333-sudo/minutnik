@@ -1,0 +1,14 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
